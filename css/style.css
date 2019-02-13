@@ -992,5 +992,8 @@ canvas {
   color: #ffffff;
   padding: 30px 0;
 }
+#foot {
+  font-family: "Dancing Script", cursive;
+}
 
 /*--------------- Footer area ends -------------*/
